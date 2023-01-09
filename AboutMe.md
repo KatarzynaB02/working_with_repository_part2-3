@@ -1,10 +1,10 @@
-### Who am I? Jestem Kasia, nie Katarzyna, Kasia
+# Who am I? Jestem Kasia, nie Katarzyna, Kasia
 
-### Hobby:
+# Hobby:
 -spanie
 -granie w gierki
 -spanie
  
-### Zdjęcie KOTA:
-![koto-żyrafa](https://zwierzaki.trojmiasto.pl/10-ciekawostek-o-kotach-o-ktorych-nie-miales-pojecia-n151448.html#gallery1photo498096)
+# Zdjęcie KOTA:
+![koto-żyrafa](https://s-trojmiasto.pl/zdj/c/n/9/2815/819x0/2815575-Co-ma-wspolnego-kot-z-zyrafa-Odpowiedz-w-artykule.jpg)
   
